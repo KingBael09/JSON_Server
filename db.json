@@ -12,72 +12,6 @@
     "isFeatured": true
   },
   {
-    "name": "Gordon Biersch",
-    "cuisine": "American",
-    "id": 3,
-    "isFeatured": true
-  },
-  {
-    "name": "Crepevine",
-    "cuisine": "American",
-    "id": 4,
-    "isFeatured": true
-  },
-  {
-    "name": "Creamery",
-    "cuisine": "American",
-    "id": 5,
-    "isFeatured": true
-  },
-  {
-    "name": "Old Pro",
-    "cuisine": "American",
-    "id": 6,
-    "isFeatured": true
-  },
-  {
-    "name": "Nola\"s",
-    "cuisine": "Cajun",
-    "id": 7,
-    "isFeatured": true
-  },
-  {
-    "name": "House of Bagels",
-    "cuisine": "Bagels",
-    "id": 8,
-    "isFeatured": true
-  },
-  {
-    "name": "The Prolific Oven",
-    "cuisine": "Sandwiches",
-    "id": 9,
-    "isFeatured": true
-  },
-  {
-    "name": "La Strada",
-    "cuisine": "Italian",
-    "id": 10,
-    "isFeatured": true
-  },
-  {
-    "name": "Buca di Beppo",
-    "cuisine": "Italian",
-    "id": 11,
-    "isFeatured": true
-  },
-  {
-    "name": "Pasta?",
-    "cuisine": "Italian",
-    "id": 12,
-    "isFeatured": true
-  },
-  {
-    "name": "Madame Tam",
-    "cuisine": "Asian",
-    "id": 13,
-    "isFeatured": true
-  },
-  {
     "name": "Darbar Indian Cuisine",
     "cuisine": "Indian",
     "id": 39,
@@ -93,48 +27,6 @@
     "name": "Janta",
     "cuisine": "Indian",
     "id": 41,
-    "isFeatured": false
-  },
-  {
-    "name": "Hyderabad House",
-    "cuisine": "Indian",
-    "id": 42,
-    "isFeatured": false
-  },
-  {
-    "name": "Starbucks",
-    "cuisine": "Coffee",
-    "id": 43,
-    "isFeatured": false
-  },
-  {
-    "name": "Peet\"s Coffee",
-    "cuisine": "Coffee",
-    "id": 44,
-    "isFeatured": false
-  },
-  {
-    "name": "Loving Hut",
-    "cuisine": "Vegan",
-    "id": 61,
-    "isFeatured": false
-  },
-  {
-    "name": "Garden Fresh",
-    "cuisine": "Vegan",
-    "id": 62,
-    "isFeatured": false
-  },
-  {
-    "name": "Cafe Epi",
-    "cuisine": "French",
-    "id": 63,
-    "isFeatured": false
-  },
-  {
-    "name": "Tai Pan",
-    "cuisine": "Chinese",
-    "id": 64,
     "isFeatured": false
   }
 ]
