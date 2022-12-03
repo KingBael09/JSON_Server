@@ -1,4 +1,4 @@
-[
+{[
   {
     "name": "Cheesecake Factory",
     "cuisine": "American",
@@ -30,3 +30,4 @@
     "isFeatured": false
   }
 ]
+}
