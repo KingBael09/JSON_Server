@@ -1,33 +1,34 @@
-{[
-  {
-    "name": "Cheesecake Factory",
-    "cuisine": "American",
-    "id": 1,
-    "isFeatured": true
-  },
-  {
-    "name": "Shokolaat",
-    "cuisine": "American",
-    "id": 2,
-    "isFeatured": true
-  },
-  {
-    "name": "Darbar Indian Cuisine",
-    "cuisine": "Indian",
-    "id": 39,
-    "falseatured": false
-  },
-  {
-    "name": "Mantra",
-    "cuisine": "Indian",
-    "id": 40,
-    "isFeatured": false
-  },
-  {
-    "name": "Janta",
-    "cuisine": "Indian",
-    "id": 41,
-    "isFeatured": false
-  }
-]
+{
+  "data": [
+    {
+      "name": "Cheesecake Factory",
+      "cuisine": "American",
+      "id": 1,
+      "isFeatured": true
+    },
+    {
+      "name": "Shokolaat",
+      "cuisine": "American",
+      "id": 2,
+      "isFeatured": true
+    },
+    {
+      "name": "Darbar Indian Cuisine",
+      "cuisine": "Indian",
+      "id": 39,
+      "falseatured": false
+    },
+    {
+      "name": "Mantra",
+      "cuisine": "Indian",
+      "id": 40,
+      "isFeatured": false
+    },
+    {
+      "name": "Janta",
+      "cuisine": "Indian",
+      "id": 41,
+      "isFeatured": false
+    }
+  ]
 }
